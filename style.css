@@ -1,5 +1,5 @@
 body {
-    background-color: tan;
+    background-color: black;
 }
 
 
@@ -8,4 +8,6 @@ font-size: 40px;
 text-align: center;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 cursor: pointer;
+color: red;
+text-transform: uppercase;
 }
